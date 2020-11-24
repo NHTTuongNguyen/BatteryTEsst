@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "310656812694",
+    "firebase_url": "https://batterymonitor-4a1d6.firebaseio.com",
+    "project_id": "batterymonitor-4a1d6",
+    "storage_bucket": "batterymonitor-4a1d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310656812694:android:ba55f885cf5aac287e24b7",
+        "android_client_info": {
+          "package_name": "com.example.batterymonitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310656812694-81bl6u0bcokqp96m6cgr85pj3v5bnvf7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.batterymonitor",
+            "certificate_hash": "3d8ec06151e6adca84900ca39ab6d1a7281344f2"
+          }
+        },
+        {
+          "client_id": "310656812694-ie2esuo5nbqh5ec1un68jq1nqb9iq96p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsfosAdgSKTJnVM0RzUU1QRbDB4IKT5HE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310656812694-ie2esuo5nbqh5ec1un68jq1nqb9iq96p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

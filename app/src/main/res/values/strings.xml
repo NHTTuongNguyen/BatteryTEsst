@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BatteryMonitor</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="admob_app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="interstitial_full_screen" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="banner_home_bottom" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="native_ad" translatable="false">ca-app-pub-3940256099942544/2247696110</string>
+</resources>
